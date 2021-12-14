@@ -1,17 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="100px" height="30px" viewBox="0 0 1000 300">
-
-  <text x="500" y="150"
-        alignment-baseline="central"
-        text-anchor="middle"
-        font-family="Verdana"
-        font-size="180"
-        font-weight="bold"
-        fill="#db0000"
-        opacity="0.2"
-        transform="rotate(-15 500,150)"
-  >
-    LOCAL
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="30" viewBox="0 0 1000 300"><text x="500" y="150" fill="#db0000" alignment-baseline="central" font-family="Verdana" font-size="180" font-weight="bold" opacity=".2" text-anchor="middle" transform="rotate(-15 500,150)">LOCAL</text></svg>
